@@ -153,183 +153,6 @@ http://xtv.ooo:8080/810523/322522/246010
 http://xtv.ooo:8080/810523/322522/301102
 #EXTINF:-1 group-title="BANGLADESH" ,IN: Republic Bangla
 http://xtv.ooo:8080/810523/322522/355824
-
-#EXTM3U
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
-http://ktv.im:8080/873747737/637763736/83781
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD-Jamuna TV
-http://ktv.im:8080/873747737/637763736/83800
-#EXTINF:-1 group-title="AS | BANGLADESH" ,INDEPENDENT TV
-http://ktv.im:8080/873747737/637763736/83776
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ATN NEWS HD
-http://ktv.im:8080/873747737/637763736/83792
-#EXTINF:-1 group-title="AS | BANGLADESH" ,CHANNEL 24 HD
-http://ktv.im:8080/873747737/637763736/83790
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NEWS 24 TV
-http://ktv.im:8080/873747737/637763736/83795
-#EXTINF:-1 group-title="AS | BANGLADESH" ,CHANNEL I
-http://ktv.im:8080/873747737/637763736/83784
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BANGLA VISION
-http://ktv.im:8080/873747737/637763736/83786
-#EXTINF:-1 group-title="AS | BANGLADESH" ,RTV HD
-http://ktv.im:8080/873747737/637763736/83787
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BTV BD
-http://ktv.im:8080/873747737/637763736/83788
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MY TV
-http://ktv.im:8080/873747737/637763736/83789
-#EXTINF:-1 group-title="AS | BANGLADESH" ,EKATTOR TV
-http://ktv.im:8080/873747737/637763736/83804
-#EXTINF:-1 group-title="AS | BANGLADESH" ,STAR JALSA HD
-http://ktv.im:8080/873747737/637763736/83733
-#EXTINF:-1 group-title="AS | BANGLADESH" ,STAR JALSHA 4K
-http://ktv.im:8080/873747737/637763736/83749
-#EXTINF:-1 group-title="AS | BANGLADESH" tvg-id="Star Jalsha HD" ,STAR JALSHA MOVIES HD
-http://ktv.im:8080/873747737/637763736/83756
-#EXTINF:-1 group-title="AS | BANGLADESH" ,COLORS BANGLA HD
-http://ktv.im:8080/873747737/637763736/83764
-#EXTINF:-1 group-title="AS | BANGLADESH" tvg-id="Zee Bangla HD" ,ZEE BANGLA HD
-http://ktv.im:8080/873747737/637763736/83766
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ZEE BANGLA CINEMA HD
-http://ktv.im:8080/873747737/637763736/83768
-#EXTINF:-1 group-title="AS | BANGLADESH" ,AKAASH AATH
-http://ktv.im:8080/873747737/637763736/83770
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SONY AATH
-http://ktv.im:8080/873747737/637763736/83772
-#EXTINF:-1 group-title="AS | BANGLADESH" ,UPASHI BANGLA
-http://ktv.im:8080/873747737/637763736/83773
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SUN BANGLA
-http://ktv.im:8080/873747737/637763736/83774
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ENTER 10 BANGLA HD
-http://ktv.im:8080/873747737/637763736/83775
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ETV TV
-http://ktv.im:8080/873747737/637763736/83777
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NTV BANGLA HD
-http://ktv.im:8080/873747737/637763736/83778
-#EXTINF:-1 group-title="AS | BANGLADESH" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg",T SPORTS HD
-http://ktv.im:8080/873747737/637763736/83779
-#EXTINF:-1 group-title="AS | BANGLADESH" ,GAZI TV HD
-http://ktv.im:8080/873747737/637763736/83780
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ATN BANGLA
-http://ktv.im:8080/873747737/637763736/83782
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ATN BANGLA UK
-http://ktv.im:8080/873747737/637763736/83783
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NAGORIK TV HD
-http://ktv.im:8080/873747737/637763736/83791
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MAASRANGA TV
-http://ktv.im:8080/873747737/637763736/83793
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD-MOHONA TV
-http://ktv.im:8080/873747737/637763736/83794
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SA TV
-http://ktv.im:8080/873747737/637763736/83796
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD- ASIAN TV
-http://ktv.im:8080/873747737/637763736/83797
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DEEPTO HD
-http://ktv.im:8080/873747737/637763736/83799
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BOISAKHI HD
-http://ktv.im:8080/873747737/637763736/83801
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DBC HD
-http://ktv.im:8080/873747737/637763736/83803
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD-Channel 9 HD
-http://ktv.im:8080/873747737/637763736/83805
-#EXTINF:-1 group-title="AS | BANGLADESH" ,GAAN BANGLA
-http://ktv.im:8080/873747737/637763736/83806
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD- Gaan Bangla HD
-http://ktv.im:8080/873747737/637763736/83807
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DESH TV
-http://ktv.im:8080/873747737/637763736/83808
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DESHI TV HD
-http://ktv.im:8080/873747737/637763736/83809
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BIJOY TV
-http://ktv.im:8080/873747737/637763736/83810
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BD-Duronto TV HD
-http://ktv.im:8080/873747737/637763736/83811
-#EXTINF:-1 group-title="AS | BANGLADESH" ,KHUSHBOO TV HD
-http://ktv.im:8080/873747737/637763736/83812
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NRB TV
-http://ktv.im:8080/873747737/637763736/83813
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NRB BANGLA HD
-http://ktv.im:8080/873747737/637763736/83814
-#EXTINF:-1 group-title="AS | BANGLADESH" ,CHANNEL S
-http://ktv.im:8080/873747737/637763736/83815
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ANANDATV
-http://ktv.im:8080/873747737/637763736/83816
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ABP ANANDA
-http://ktv.im:8080/873747737/637763736/83817
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BANGLA TIMES
-http://ktv.im:8080/873747737/637763736/83818
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ITV
-http://ktv.im:8080/873747737/637763736/83819
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BANGLA TV
-http://ktv.im:8080/873747737/637763736/83820
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NAN TV FHD
-http://ktv.im:8080/873747737/637763736/83821
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NOKSHI TV
-http://ktv.im:8080/873747737/637763736/83822
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NEXUS TV
-http://ktv.im:8080/873747737/637763736/83823
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SONGSAD TV FHD
-http://ktv.im:8080/873747737/637763736/83824
-#EXTINF:-1 group-title="AS | BANGLADESH" ,TIMES24 TV FHD
-http://ktv.im:8080/873747737/637763736/83825
-#EXTINF:-1 group-title="AS | BANGLADESH" ,TIME TV
-http://ktv.im:8080/873747737/637763736/83826
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DESHE BIDESHE
-http://ktv.im:8080/873747737/637763736/83827
-#EXTINF:-1 group-title="AS | BANGLADESH" ,TV9BANGLA
-http://ktv.im:8080/873747737/637763736/83828
-#EXTINF:-1 group-title="AS | BANGLADESH" ,TV9 BANGLA
-http://ktv.im:8080/873747737/637763736/83829
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MEEM TV NY
-http://ktv.im:8080/873747737/637763736/83830
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BISWA BANGLA 24
-http://ktv.im:8080/873747737/637763736/83831
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NEWS 18 BANGLA
-http://ktv.im:8080/873747737/637763736/83832
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SRISTY TV
-http://ktv.im:8080/873747737/637763736/83833
-#EXTINF:-1 group-title="AS | BANGLADESH" ,BTVCHATTOGRAM
-http://ktv.im:8080/873747737/637763736/83834
-#EXTINF:-1 group-title="AS | BANGLADESH" ,CALCUTTA NEWS
-http://ktv.im:8080/873747737/637763736/83835
-#EXTINF:-1 group-title="AS | BANGLADESH" ,NANDAN TV
-http://ktv.im:8080/873747737/637763736/83836
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DD BANGLA
-http://ktv.im:8080/873747737/637763736/83837
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MILLENNIUM TV
-http://ktv.im:8080/873747737/637763736/83838
-#EXTINF:-1 group-title="AS | BANGLADESH" ,GLOBALTV HD
-http://ktv.im:8080/873747737/637763736/83839
-#EXTINF:-1 group-title="AS | BANGLADESH" ,ZEE24GHANTA
-http://ktv.im:8080/873747737/637763736/83840
-#EXTINF:-1 group-title="AS | BANGLADESH" ,R PLUS GOLD
-http://ktv.im:8080/873747737/637763736/83841
-#EXTINF:-1 group-title="AS | BANGLADESH" ,RTV MUSIC
-http://ktv.im:8080/873747737/637763736/83842
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DHOOM MUSIC
-http://ktv.im:8080/873747737/637763736/83843
-#EXTINF:-1 group-title="AS | BANGLADESH" ,SANGEET BANGALI
-http://ktv.im:8080/873747737/637763736/83844
-#EXTINF:-1 group-title="AS | BANGLADESH" ,DISCOVERY CHANNEL BENGALI
-http://ktv.im:8080/873747737/637763736/83845
-#EXTINF:-1 group-title="AS | BANGLADESH" ,TRAVELXP HD (BANGLA)
-http://ktv.im:8080/873747737/637763736/83846
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 1 HD
-http://ktv.im:8080/873747737/637763736/83847
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 2 HD
-http://ktv.im:8080/873747737/637763736/83848
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 3 HD
-http://ktv.im:8080/873747737/637763736/83849
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 4 HD
-http://ktv.im:8080/873747737/637763736/83850
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 5 HD
-http://ktv.im:8080/873747737/637763736/83851
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 7 HD
-http://ktv.im:8080/873747737/637763736/83852
-#EXTINF:-1 group-title="AS | BANGLADESH" ,MOVIES 8 HD
-http://ktv.im:8080/873747737/637763736/83853
-#EXTINF:-1 group-title="AS | BANGLADESH" , You're Streaming IPTV BD LIVE TV PREMIUM 
-https://drive.usercontent.google.com/download?id=13qm0XOuDdBe-VmiDZ5Sd9uTTSJrzcGbB&export=download
-# iptvbdlivetvpremiumsports.m3u
 #EXTM3U
 #EXTINF:-1 group-title="INDIAN | MUSIC" tvg-logo="https://static.epg.best/in/Zoom.in.png" tvg-id="zoom.in" ,IN | Zoom TV
 http://xtv.ooo:8080/810523/322522/66190
@@ -412,6 +235,30 @@ http://xtv.ooo:8080/810523/322522/270517
 #EXTINF:-1 group-title="INDIAN | MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
 http://xtv.ooo:8080/810523/322522/270518
 #EXTM3U
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" ,IN | Sony yay
+https://toffee.iptvbd.xyz/api/sony_yay.m3u8
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" ,IN: Hungama**
+http://xtv.ooo:8080/810523/322522/150480
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" tvg-id="nick.in" ,IN: Nick Bangla
+http://rolextv.asia/12345/54321/147595
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" ,IND: Nick Junior
+http://xtv.ooo:8080/810523/322522/153156
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" tvg-id="discoverykids.in" ,Discovery kids
+http://xtv.ooo:8080/810523/322522/76723
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" ,IN: Disney Junior
+http://xtv.ooo:8080/810523/322522/153175
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" ,KIDS: Sonic bangla 
+http://rolextv.asia/12345/54321/149127
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" tvg-id="disneychannel.in" ,IN | DISNEY HD
+http://xtv.ooo:8080/810523/322522/167551
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" ,IN: NICK SONIC Bangla 
+http://rolextv.asia/12345/54321/149127
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" tvg-id="sonyten3hd.in" ,NICK HD+ [FHD]
+http://xtv.ooo:8080/810523/322522/76722
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="http://b1g.fun/logos2/kids_zone.jpg" ,PK | Kids Zone+ HD
+http://xtv.ooo:8080/810523/322522/383066
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest?cb=20210423103847" , Rongeen Tv Bangladesh 
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN | KIDS Cartoon" ,***KIDS***
 http://xtv.ooo:8080/810523/322522/106148
 #EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" tvg-id="cartoonnetworkhd.in" ,IN: Cartoon Network
