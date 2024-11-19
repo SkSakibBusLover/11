@@ -154,6 +154,70 @@ http://xtv.ooo:8080/810523/322522/301102
 #EXTINF:-1 group-title="BANGLADESH" ,IN: Republic Bangla
 http://xtv.ooo:8080/810523/322522/355824
 #EXTM3U
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC5dTKMA3bCYRIJwdki3CJmh-A5fKLLn_VfxEBms2idxy.jpg" tvg-id="Ptv Sports.pk" ,PTV SPORTS FHD
+http://rolextv.asia/12345/54321/27187
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC5dTKMA3bCYRIJwdki3CJmh-A5fKLLn_VfxEBms2idxy.jpg" tvg-id="Ptv Sports.pk" ,PTV SPORTS HD
+http://rolextv.asia/12345/54321/27188
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC9wABhd2aDN5MSBQNKBarH1sNeuEX1z63aWXSsFDWYF3.jpg" tvg-id="Ptv Sports.pk" ,PTV SPORTS SD
+http://rolextv.asia/12345/54321/27201
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" ,TEN SPORTS FHD
+http://rolextv.asia/12345/54321/27207
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" ,TEN SPORTS HD
+http://rolextv.asia/12345/54321/27211
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" ,TEN SPORTS SD
+http://rolextv.asia/12345/54321/27213
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC8Oyzlf15GF7cUOMxSQnNtZ3tfX2IgBc3ccavoNXQGp1.jpg" ,A SPORTS FHD
+http://rolextv.asia/12345/54321/27220
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC8Oyzlf15GF7cUOMxSQnNtZ3tfX2IgBc3ccavoNXQGp1.jpg" ,A SPORTS HD
+http://rolextv.asia/12345/54321/27221
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_kpLVPSW3Tvf9Ib6tazUODtA6pEEAcR7Xs-ti7VV7qH.jpg" ,A SPORTS SD
+http://rolextv.asia/12345/54321/27223
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdCS1PVXpXWZLfkymY73KCYafy_0EzFer7oxuqtDnvSWOg.jpg" ,STAR SPORTS SELECT 1 FHD
+http://rolextv.asia/12345/54321/27256
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdD2pb_UcwjRaLyJyL1hllQO.jpg" tvg-id="Star Sports 1 HD" ,STAR SPORTS 1 FHD
+http://rolextv.asia/12345/54321/27238
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdD2pb_UcwjRaLyJyL1hllQO.jpg" tvg-id="STARSPORTS1SD.IN" ,STAR SPORTS 1 HD
+http://rolextv.asia/12345/54321/27241
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdAGtJnih8oTGLF1TYFRS33L.jpg" tvg-id="STARSPORTSHINDIHD.in" ,(HINDI) STAR SPORTS 1 FHD
+http://rolextv.asia/12345/54321/27245
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdC28DuFZEDlGMIDgyBySKRJ.jpg" ,STAR SPORTS 2 FHD
+http://rolextv.asia/12345/54321/27249
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdBo0KP70k-H_JrujPOaurdT.jpg" ,STAR SPORTS SELECT 2 FHD
+http://rolextv.asia/12345/54321/27260
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0E2bZo94PhiRUIRNocMCxu_pSISdeFedcMREMy5zPwu2g.png" tvg-id="Eurosport HD" ,Eurosports India HD
+http://rolextv.asia/12345/54321/60379
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" ,IN | STAR 4K
+http://rolextv.asia/12345/54321/144609
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/d3c2a060ab6cdaacdfbf7ebf639df124.png" ,StarzPLay Criclife 2 HD
+http://rolextv.asia/12345/54321/28253
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/a6b6d7113703c180c1513d7da9d00c6a.jpg" tvg-id="TNT Sports 1 HD" ,TNT CRICKET HD
+http://rolextv.asia/12345/54321/33746
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-id="Sky Sports Cricket HD" ,HEVC | SKY SPORTS CRICKET
+http://rolextv.asia/12345/54321/134342
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/47e44ce2ab746b346217f266a8bfa401.png" tvg-id="SSPOCRH" ,SKY SPORTS CRICKET HD
+http://rolextv.asia/12345/54321/27263
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/b1779d0d79931a7fa643abfd93618924.png" ,SUPERSPORTS CRICKET HD
+http://rolextv.asia/12345/54321/27267
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="http://www.tmsimg.com/assets/s68605_ll_h3_aa.png" tvg-id="WILLOW" ,WILLOW CRICKET HD
+http://rolextv.asia/12345/54321/27269
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/4f108160d215cbf92a07508b7c216de0.png" tvg-id="WILXHD" ,WILLOW EXTRA HD
+http://rolextv.asia/12345/54321/27270
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/0abae8418f9cb3f2e6709c903b9d9db2.png" ,ASTRO CRICKET HD
+http://rolextv.asia/12345/54321/27271
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/96c606bd4e4946f808023f328c61026e.png" tvg-id="F501ANZ" ,FOX CRICKET HD
+http://rolextv.asia/12345/54321/27272
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/689e82ba935f5f79b8330151b367a49a.png" ,T SPORTS HD
+http://rolextv.asia/12345/54321/27273
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/42cd65ea722e20601cc0db4750c0b45b.png" tvg-id="TENCRIC" ,TEN CRICKET HD
+http://rolextv.asia/12345/54321/27274
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/b2a8a7aab3732cd45f1ddcec6d4f694e.png" ,STARZPLAYS CRICKET HD
+http://rolextv.asia/12345/54321/27278
+#EXTINF:-1 group-title="LIVE | CRICKET" tvg-logo="https://rolextv.asia:443/images/d3c2a060ab6cdaacdfbf7ebf639df124.png" ,STARZPLAYS CRICLIFE 1 HD
+http://rolextv.asia/12345/54321/27286
+#EXTINF:-1 group-title="LIVE | CRICKET" ,StarPlay Criclife 3 HD
+http://rolextv.asia/12345/54321/173456
+
+#EXTM3U
 #EXTINF:-1 group-title="INDIAN | MUSIC" tvg-logo="https://static.epg.best/in/Zoom.in.png" tvg-id="zoom.in" ,IN | Zoom TV
 http://xtv.ooo:8080/810523/322522/66190
 #EXTINF:-1 group-title="INDIAN | MUSIC" tvg-logo="https://static.epg.best/in/9XM.in.png" tvg-id="9xm.in" ,IN | 9xm
