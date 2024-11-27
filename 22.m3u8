@@ -23,6 +23,8 @@ http://xtv.ooo:8080/810523/322522/220064
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd server 7
 http://xtv.ooo:8080/810523/322522/220065
 #EXTM3U
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" ,BD: Zee Bangla Cinema
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC4AM3uHmUQFhwPylkishLvzJKwsLVh68X4kldn4ZM-Cc.jpg" ,BD | D2H COLORS BANGLA FHD
 http://rolextv.asia/12345/54321/27752
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC3R7Jd1GtA6U_aKiK394pWhWENneGGcab4qVPAVGsTp-.jpg" ,BD | D2H STAR JALSHA FHD
