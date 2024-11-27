@@ -23,7 +23,9 @@ http://xtv.ooo:8080/810523/322522/220064
 #EXTINF:-1 group-title="CRI  | T20 World Cup (2024)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0uDNJ8Wv6c8m0OUvDc3KQ3ExGZJyISqJIW4YyXb16FxVhPr4WTs1vIRVJWg4UIkVOhdjkrlISO3dl5QbmDBSFNbYm24Gpzt5IlSbm_un6Wmj4b8nubXjCDJhilzNnMsqeGFEgModhdzANqiWo6e0WAYlq8PvzGJAiYJDea5ssMduPSjCqyw48D3qRh4/s3264/20240829_103925.png" ,bdixiptvbd server 7
 http://xtv.ooo:8080/810523/322522/220065
 #EXTM3U
-#EXTINF:-1 group-title="BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" ,BD: Zee Bangla Cinema
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" ,Zee Bangla by bdixiptvbd
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" ,Zee Bangla Cinema by bdixiptvbd
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC4AM3uHmUQFhwPylkishLvzJKwsLVh68X4kldn4ZM-Cc.jpg" ,BD | D2H COLORS BANGLA FHD
 http://rolextv.asia/12345/54321/27752
@@ -33,7 +35,7 @@ http://rolextv.asia/12345/54321/27753
 http://rolextv.asia/12345/54321/27754
 #EXTINF:-1 group-title="BANGLA" ,BD_CHANNEL 24 HD
 http://rolextv.asia/12345/54321/27755
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://rolextv.asia:443/images/1854795dd94a20c70cc00c81b7ac8110.png" ,BD_Channel I UK
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://rolextv.asia:443/images/1854795dd94a20c70cc00c81b7ac8110.png" ,Channel I UK
 http://rolextv.asia/12345/54321/27756
 #EXTINF:-1 group-title="BANGLA" ,BD_Channel S
 http://rolextv.asia/12345/54321/27757
@@ -201,7 +203,6 @@ http://rolextv.asia/12345/54321/27839
 http://rolextv.asia/12345/54321/27840
 #EXTINF:-1 group-title="BANGLA" ,Zarok TV Sonai
 http://rolextv.asia/12345/54321/63130
-
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-gpBFuRB9VcnTvjktJT-th7sJa29oiSiePbIrANMfURpWIS8I9HUuDSDp_inLdWdWi0ybR5AOubhUFGHydPJhIeuNx7joR6RJo-8w1Ln8PWXfzT9HN8KGwN-eR6sVLg73porXIZWAo85AnPpmPEmx4T_qbq3eeHUfNowZ_tpn3L9ByB7BugID9zPyLY/s512/20240927_192353.png" tvg-id="zeebanglahd.in" ,Welcome To IPTV BD Live TV PREMIUM
 http://xtv.ooo:8080/810523/322522/245892
